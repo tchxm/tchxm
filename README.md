@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Mohammed Afnan 👋</h1>
 
 <p align="center">
-  AI/ML Student @ Reva University · Building tech for social impact · Bengaluru, India
+  AI/ML Engineer · Building tech for social impact · Bengaluru, India
 </p>
 
 ---
