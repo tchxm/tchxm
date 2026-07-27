@@ -9,7 +9,7 @@
 - **[InfraWatch](https://infrawatch-sepia.vercel.app)** — Satellite-based illegal construction detection using Gemini 2.5 Vision, with SLA-tracked enforcement workflows and hallucination-guarded legal notice generation. Google Solution Challenge 2026 submission.
 - **[YojanaSaarthi](https://github.com/tchxm/YojanaSaarthi)** — Deterministic eligibility engine modeling 26 Indian government welfare schemes, with transparent (non-black-box) qualification logic
 - **[EduGuard-AI](https://github.com/tchxm/EduGuard-AI)** — Flask-based classroom attendance system using face recognition, with role-based access and full pytest coverage
-- **Eye Guardian** — Webcam-based screen-health app using MediaPipe eye landmarks for real-time blink rate and dry-eye risk detection. 2nd Prize, REVA hackathon.
+- **[Eye Guardian](https://github.com/tchxm/Eye-Guardian.git)** — Webcam-based screen-health app using MediaPipe eye landmarks for real-time blink rate and dry-eye risk detection. 2nd Prize, REVA hackathon.
 
 ### 🛠 Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
