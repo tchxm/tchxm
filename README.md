@@ -142,12 +142,12 @@ Webcam-based screen-health monitor — MediaPipe eye landmarks track blink rate 
 ## 📊 The numbers
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=tchxm&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="175"/>
+<img src="https://github-readme-stats-ivory-alpha-38.vercel.app/api?username=tchxm&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="175"/>
 <img src="https://streak-stats.demolab.com/?user=tchxm&theme=tokyonight&hide_border=true" height="175"/>
 </div>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tchxm&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165"/>
+<img src="https://github-readme-stats-ivory-alpha-38.vercel.app/api/top-langs/?username=tchxm&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165"/>
 <img src="https://github-profile-trophy.vercel.app/?username=tchxm&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=8&margin-h=8" height="165"/>
 </div>
 
