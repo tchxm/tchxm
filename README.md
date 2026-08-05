@@ -171,7 +171,6 @@ Webcam-based screen-health monitor — MediaPipe eye landmarks track blink rate 
 
 <br>
 
-## 🎯 Currently
 
 ## 🚀 Current Focus
 
