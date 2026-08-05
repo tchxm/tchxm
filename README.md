@@ -140,24 +140,26 @@ Webcam-based screen-health monitor — MediaPipe eye landmarks track blink rate 
 <br>
 
 
-## 📊 The numbers
+## 📊 The Numbers
 
 <div align="center">
-<img src="https://github-readme-stats-ivory-alpha-38.vercel.app/api?username=tchxm&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="175"/>
-<img src="https://streak-stats.demolab.com/?user=tchxm&theme=tokyonight&hide_border=true" height="175"/>
+
+<img width="49%" src="https://github-readme-stats-ivory-alpha-38.vercel.app/api?username=tchxm&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img width="49%" src="https://streak-stats.demolab.com/?user=tchxm&theme=tokyonight&hide_border=true" />
+
+<br><br>
+
+<img width="42%" src="https://github-readme-stats-ivory-alpha-38.vercel.app/api/top-langs/?username=tchxm&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+<br><br>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=tchxm&theme=tokyo-night&hide_border=true&area=true" />
+
+<br><br>
+
+<img width="100%" src="https://raw.githubusercontent.com/tchxm/tchxm/output/github-contribution-grid-snake.svg" />
+
 </div>
-
-<div align="center">
-<img src="https://github-readme-stats-ivory-alpha-38.vercel.app/api/top-langs/?username=tchxm&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165"/>
-</div>
-
-<br>
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tchxm&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
-</div>
-
-<br>
 
 <!--START_SECTION:waking-up-->
 <div align="center">
