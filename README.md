@@ -45,7 +45,7 @@
 
 <br>
 
-## 🚀 Projects that had to actually work
+## 🚀 Featured Projects
 
 <table>
 <tr>
