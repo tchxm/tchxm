@@ -93,17 +93,49 @@ Webcam-based screen-health monitor — MediaPipe eye landmarks track blink rate 
 
 <br>
 
-## 🧰 Stack
+## 🧰 Tech Stack
 
-<div align="center">
-<img src="https://skillicons.dev/icons?i=python,ts,js,react,nextjs,flask,express,postgres,firebase,docker,git,github,vscode&perline=13"/>
-</div>
+<table>
+<tr>
+<td valign="top" width="50%">
 
-<div align="center">
-<br>
-<img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-</div>
+**LANGUAGES**
+<br><br>
+<img src="https://skillicons.dev/icons?i=python,js,ts,html,css"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
+
+<br><br>
+
+**AI & APIs**
+<br><br>
+<img src="https://img.shields.io/badge/Gemini_2.5_Vision-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Groq-F55036?style=flat-square"/>
+<img src="https://img.shields.io/badge/Llama_4-0467DF?style=flat-square&logo=meta&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=opencv"/>
+<img src="https://img.shields.io/badge/face--recognition-000?style=flat-square"/>
+
+</td>
+<td valign="top" width="50%">
+
+**FRAMEWORKS & LIBRARIES**
+<br><br>
+<img src="https://skillicons.dev/icons?i=react,nextjs,flask,express,nodejs"/>
+<img src="https://img.shields.io/badge/Flask--SQLAlchemy-000?style=flat-square"/>
+
+<br><br>
+
+**DATA, CLOUD & TOOLS**
+<br><br>
+<img src="https://skillicons.dev/icons?i=firebase,supabase,sqlite,postgres,docker,git,github,vercel"/>
+<img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white"/>
+<img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white"/>
+<img src="https://img.shields.io/badge/JWT_Auth-000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
+
+</td>
+</tr>
+</table>
 
 <br>
 
@@ -111,7 +143,7 @@ Webcam-based screen-health monitor — MediaPipe eye landmarks track blink rate 
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=tchxm&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="175"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tchxm&theme=tokyonight&hide_border=true" height="175"/>
+<img src="https://streak-stats.demolab.com/?user=tchxm&theme=tokyonight&hide_border=true" height="175"/>
 </div>
 
 <div align="center">
@@ -159,8 +191,7 @@ Webcam-based screen-health monitor — MediaPipe eye landmarks track blink rate 
 
 If you're hiring for applied AI, civic-tech, or full-stack roles — my inbox is open.
 
-<a href="https://www.linkedin.com/in/mohammed-afnan-77a27a311"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://resume-afnan.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+**[LinkedIn](https://www.linkedin.com/in/mohammed-afnan-77a27a311) · [Portfolio](https://resume-afnan.vercel.app)**
 
 <br><br>
 
