@@ -161,18 +161,6 @@ Webcam-based screen-health monitor — MediaPipe eye landmarks track blink rate 
 
 </div>
 
-<!--START_SECTION:waking-up-->
-<div align="center">
-
-### 🐍 Contribution Snake
-
-<img src="https://raw.githubusercontent.com/tchxm/tchxm/output/github-contribution-grid-snake.svg" width="100%"/>
-
-</div>
-<!--END_SECTION:waking-up-->
-
-<br>
-
 
 ## 🚀 Current Focus
 
