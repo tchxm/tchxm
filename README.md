@@ -60,13 +60,13 @@ Satellite-based illegal construction detector. Gemini 2.5 Vision flags anomalies
 <a href="https://infrawatch-sepia.vercel.app">🔗 Live Demo</a>
 </td>
 <td width="50%" valign="top">
-<h3>📜 <a href="https://github.com/tchxm/YojanaSaarthi">YojanaSaarthi</a></h3>
+<h3>📜 <a href="https://v0-yojana-saarthi.vercel.app/">YojanaSaarthi</a></h3>
 An eligibility engine for 26 Indian government welfare schemes — built deliberately <b>without</b> an LLM in the decision loop. Every "you qualify / you don't" is traceable, auditable rule logic. No black box, no guessing.
 <br><br>
 <img src="https://img.shields.io/badge/Rules_Engine-000?style=flat-square"/>
 <img src="https://img.shields.io/badge/Explainable-00A67E?style=flat-square"/>
 <br><br>
-<a href="https://github.com/tchxm/YojanaSaarthi">🔗 Repository</a>
+<a href="https://github.com/tchxm/YojanaSaarthi">🔗 Live Demo</a>
 </td>
 </tr>
 <tr>
