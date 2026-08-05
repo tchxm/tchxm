@@ -148,7 +148,6 @@ Webcam-based screen-health monitor — MediaPipe eye landmarks track blink rate 
 
 <div align="center">
 <img src="https://github-readme-stats-ivory-alpha-38.vercel.app/api/top-langs/?username=tchxm&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165"/>
-<img src="https://github-profile-trophy.vercel.app/?username=tchxm&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=8&margin-h=8" height="165"/>
 </div>
 
 <br>
