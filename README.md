@@ -202,7 +202,7 @@ I enjoy building explainable AI, computer vision systems, intelligent automation
 
 <br>
 
-<a href="kariox364@gmail.com">
+<a href="mailto:kariox364@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
