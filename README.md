@@ -173,20 +173,22 @@ Webcam-based screen-health monitor — MediaPipe eye landmarks track blink rate 
 
 ## 🎯 Currently
 
+## 🚀 Current Focus
+
 <div align="center">
 
-🛰️ <b>InfraWatch</b><br>
-Hardening the notice generation pipeline with hallucination safeguards.
+<b>🛰️ InfraWatch</b><br>
+Strengthening hallucination-resistant notice generation and enforcement workflows.
 
-<br><br>
+<br>
 
-📜 <b>YojanaSaarthi</b><br>
-Expanding scheme coverage and improving edge-case handling.
+<b>📜 YojanaSaarthi</b><br>
+Expanding explainable policy coverage with deterministic eligibility rules and edge-case handling.
 
-<br><br>
+<br>
 
-🤖 <b>AI Agents</b><br>
-Experimenting with multi-step verification workflows and reliable agent architectures.
+<b>🤖 AI Systems</b><br>
+Building reliable multi-step reasoning, verification, and agent orchestration patterns.
 
 </div>
 <br>
