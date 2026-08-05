@@ -121,14 +121,14 @@ Webcam-based screen-health monitor — MediaPipe eye landmarks track blink rate 
 
 **FRAMEWORKS & LIBRARIES**
 <br><br>
-<img src="https://skillicons.dev/icons?i=react,nextjs,flask,express,nodejs"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,flask,express,nodejs,npm"/>
 <img src="https://img.shields.io/badge/Flask--SQLAlchemy-000?style=flat-square"/>
 
 <br><br>
 
 **DATA, CLOUD & TOOLS**
 <br><br>
-<img src="https://skillicons.dev/icons?i=firebase,supabase,sqlite,postgres,docker,git,github,vercel"/>
+<img src="https://skillicons.dev/icons?i=firebase,supabase,sqlite,postgres,docker,git,github,vercel,postman"/>
 <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white"/>
 <img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white"/>
 <img src="https://img.shields.io/badge/JWT_Auth-000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
@@ -142,12 +142,12 @@ Webcam-based screen-health monitor — MediaPipe eye landmarks track blink rate 
 ## 📊 The numbers
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=tchxm&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="175"/>
-<img src="https://streak-stats.demolab.com/?user=tchxm&theme=tokyonight&hide_border=true" height="175"/>
+<img src="https://github-readme-stats.vercel.app/api?username=tchxm&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" height="175"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tchxm&theme=tokyonight&hide_border=true" height="175"/>
 </div>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tchxm&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tchxm&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" height="165"/>
 <img src="https://github-profile-trophy.vercel.app/?username=tchxm&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=8&margin-h=8" height="165"/>
 </div>
 
@@ -164,7 +164,7 @@ Webcam-based screen-health monitor — MediaPipe eye landmarks track blink rate 
 
 ### 🐍 Contribution Snake
 
-<img src="https://raw.githubusercontent.com/tchxm/tchxm/output/github-contribution-grid-snake.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/tchxm/tchxm/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 </div>
 <!--END_SECTION:waking-up-->
