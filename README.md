@@ -187,14 +187,34 @@ Webcam-based screen-health monitor — MediaPipe eye landmarks track blink rate 
 
 <div align="center">
 
-### 📬 Let's talk
+## 📬 Let's Connect
 
-If you're hiring for applied AI, civic-tech, or full-stack roles — my inbox is open.
+Turning AI research into reliable software.
 
-**[LinkedIn](https://www.linkedin.com/in/mohammed-afnan-77a27a311) · [Portfolio](https://resume-afnan.vercel.app)**
+I enjoy building explainable AI, computer vision systems, intelligent automation, and production-ready full-stack applications.
+
+<br>
+
+<a href="mailto:YOUR_EMAIL_HERE">
+<img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/mohammed-afnan-77a27a311">
+<img src="https://img.shields.io/badge/LinkedIn-Mohammed_Afnan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://resume-afnan.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=100&section=footer" width="100%"/>
+> **Open to AI/ML Engineering, Software Engineering, and Full-Stack Development Internship Opportunities.**
+
+<br>
+
+📍 Bengaluru, India
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=100&section=footer" width="100%"/>
