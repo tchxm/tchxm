@@ -51,7 +51,7 @@
 <tr>
 <td width="50%" valign="top">
 <h3>🛰️ <a href="https://infrawatch-sepia.vercel.app">InfraWatch</a></h3>
-Satellite-based illegal construction detector. Gemini 2.5 Vision flags anomalies, then an SLA'd enforcement pipeline takes over — and every auto-generated legal notice is hallucination-guarded before it goes anywhere near a human.
+ Satellite-based illegal construction detector. Gemini 2.5 Vision flags anomalies, then an SLA'd enforcement pipeline takes over — and every auto-generated legal notice is hallucination-guarded before it goes anywhere near a human.
 <br><br>
 <img src="https://img.shields.io/badge/Gemini_2.5_Vision-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/>
 <img src="https://img.shields.io/badge/Google_Maps-4285F4?style=flat-square&logo=googlemaps&logoColor=white"/>
