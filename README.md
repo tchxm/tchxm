@@ -175,14 +175,20 @@ Webcam-based screen-health monitor — MediaPipe eye landmarks track blink rate 
 
 <div align="center">
 
-| | |
-|---|---|
-| 🔧 | Hardening InfraWatch's notice-gen against hallucinated claims |
-| 📈 | Widening YojanaSaarthi's scheme + edge-case coverage |
-| 🤖 | Prototyping multi-step verification agent patterns |
+🛰️ <b>InfraWatch</b><br>
+Hardening the notice generation pipeline with hallucination safeguards.
+
+<br><br>
+
+📜 <b>YojanaSaarthi</b><br>
+Expanding scheme coverage and improving edge-case handling.
+
+<br><br>
+
+🤖 <b>AI Agents</b><br>
+Experimenting with multi-step verification workflows and reliable agent architectures.
 
 </div>
-
 <br>
 
 <div align="center">
