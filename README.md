@@ -1,80 +1,92 @@
 <div align="center">
 
-# ⚡ Mohammed Afnan
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Mohammed%20Afnan&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Engineer%20%C2%B7%20Full-Stack%20Developer%20%C2%B7%20Bengaluru&descAlignY=58&descSize=18" width="100%"/>
 
-### building AI systems that don't just demo well — they hold up under scrutiny
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=900&color=58A6FF&center=true&vCenter=true&width=650&lines=I+build+AI+that+has+to+survive+contact+with+reality;Hallucination-guarded+pipelines%2C+not+demo-ware;Satellite+CV+%C2%B7+RAG+%C2%B7+Deterministic+decision+engines" alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hallucination-guarded+AI+pipelines;Deterministic+logic+over+black-box+guessing;SLA-tracked%2C+production-shaped+systems" alt="Typing SVG" />
+<br>
 
-<a href="https://resume-afnan.vercel.app"><img src="https://img.shields.io/badge/Portfolio-resume--afnan.vercel.app-000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/mohammed-afnan-77a27a311"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://resume-afnan.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-Visit-black?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/mohammed-afnan-77a27a311"><img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<img src="https://komarev.com/ghpvc/?username=tchxm&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS"/>
 
 </div>
 
 <br>
 
-## 🧭 The short version
-
-Bengaluru-based AI/ML + full-stack engineer. I build systems where AI is one component, not the whole pitch — think enforcement workflows, eligibility engines, and health monitors, where the LLM is expected to be *right*, not just fluent. That means guardrails, transparent logic, and test coverage matter more to me than a flashy demo.
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:161B22,100:161B22&height=2&width=100%25" width="100%"/>
 
 <br>
 
-## 🏗️ What I'm building
+<table align="center">
+<tr>
+<td align="center" width="25%">
+<h2>🛰️</h2>
+<b>InfraWatch</b><br>
+<sub>Live · Solution Challenge '26</sub>
+</td>
+<td align="center" width="25%">
+<h2>📜</h2>
+<b>26 schemes</b><br>
+<sub>modeled in YojanaSaarthi</sub>
+</td>
+<td align="center" width="25%">
+<h2>🥈</h2>
+<b>2nd Prize</b><br>
+<sub>REVA Hackathon</sub>
+</td>
+<td align="center" width="25%">
+<h2>🎯</h2>
+<b>Full test coverage</b><br>
+<sub>EduGuard-AI</sub>
+</td>
+</tr>
+</table>
+
+<br>
+
+## 🚀 Projects that had to actually work
 
 <table>
 <tr>
-<td width="70%" valign="top">
-
-**[InfraWatch](https://infrawatch-sepia.vercel.app)** 🛰️
-Satellite-based illegal construction detection using Gemini 2.5 Vision. Goes beyond flagging anomalies — tracks enforcement through SLA'd workflows and generates legal notices with hallucination guardrails so the AI's output is actually defensible.
-
+<td width="50%" valign="top">
+<h3>🛰️ <a href="https://infrawatch-sepia.vercel.app">InfraWatch</a></h3>
+Satellite-based illegal construction detector. Gemini 2.5 Vision flags anomalies, then an SLA'd enforcement pipeline takes over — and every auto-generated legal notice is hallucination-guarded before it goes anywhere near a human.
+<br><br>
+<img src="https://img.shields.io/badge/Gemini_2.5_Vision-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google_Maps-4285F4?style=flat-square&logo=googlemaps&logoColor=white"/>
+<img src="https://img.shields.io/badge/SLA_Workflows-000?style=flat-square"/>
+<br><br>
+<a href="https://infrawatch-sepia.vercel.app">🔗 Live Demo</a>
 </td>
-<td width="30%" valign="top">
-
-🏆 **Google Solution Challenge 2026** submission
-`Gemini 2.5 Vision` `SLA workflows` `Legal-notice gen`
-
-</td>
-</tr>
-<tr>
-<td width="70%" valign="top">
-
-**[YojanaSaarthi](https://github.com/tchxm/YojanaSaarthi)** 📜
-A deterministic eligibility engine covering 26 Indian government welfare schemes. Deliberately *not* an LLM black box — every qualification decision traces back to explicit, auditable logic.
-
-</td>
-<td width="30%" valign="top">
-
-**Focus:** transparent, non-ML decisioning
-`Rules engine` `Government schemes`
-
+<td width="50%" valign="top">
+<h3>📜 <a href="https://github.com/tchxm/YojanaSaarthi">YojanaSaarthi</a></h3>
+An eligibility engine for 26 Indian government welfare schemes — built deliberately <b>without</b> an LLM in the decision loop. Every "you qualify / you don't" is traceable, auditable rule logic. No black box, no guessing.
+<br><br>
+<img src="https://img.shields.io/badge/Rules_Engine-000?style=flat-square"/>
+<img src="https://img.shields.io/badge/Explainable-00A67E?style=flat-square"/>
+<br><br>
+<a href="https://github.com/tchxm/YojanaSaarthi">🔗 Repository</a>
 </td>
 </tr>
 <tr>
-<td width="70%" valign="top">
-
-**[EduGuard-AI](https://github.com/tchxm/EduGuard-AI)** 🎓
-Flask-based classroom attendance system using face recognition, with role-based access control and full pytest coverage — built like something meant to actually run in a school, not just a notebook.
-
+<td width="50%" valign="top">
+<h3>🎓 <a href="https://github.com/tchxm/EduGuard-AI">EduGuard-AI</a></h3>
+Face-recognition classroom attendance system with role-based access control. Built like production software: full pytest suite, not a notebook that only ran once.
+<br><br>
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white"/>
+<br><br>
+<a href="https://github.com/tchxm/EduGuard-AI">🔗 Repository</a>
 </td>
-<td width="30%" valign="top">
-
-`Flask` `Face recognition` `pytest`
-
-</td>
-</tr>
-<tr>
-<td width="70%" valign="top">
-
-**[Eye Guardian](https://github.com/tchxm/Eye-Guardian.git)** 👁️
-Webcam-based screen-health app using MediaPipe eye landmarks to track blink rate and dry-eye risk in real time.
-
-</td>
-<td width="30%" valign="top">
-
-🥈 **2nd Prize** — REVA Hackathon
-`MediaPipe` `Computer vision`
-
+<td width="50%" valign="top">
+<h3>👁️ <a href="https://github.com/tchxm/Eye-Guardian.git">Eye Guardian</a></h3>
+Webcam-based screen-health monitor — MediaPipe eye landmarks track blink rate and dry-eye risk in real time. Took 2nd prize at REVA Hackathon.
+<br><br>
+<img src="https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+<br><br>
+<a href="https://github.com/tchxm/Eye-Guardian.git">🔗 Repository</a>
 </td>
 </tr>
 </table>
@@ -83,70 +95,71 @@ Webcam-based screen-health app using MediaPipe eye landmarks to track blink rate
 
 ## 🧰 Stack
 
-<table>
-<tr>
-<td valign="top" width="33%">
-
-**Languages**
-<br>
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-
-**AI / LLM**
-<br>
-![Gemini](https://img.shields.io/badge/Gemini_API-8E75B2?style=flat&logo=googlegemini&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat&logo=openai&logoColor=white)
-
-</td>
-<td valign="top" width="33%">
-
-**Frontend**
-<br>
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-
-**Backend**
-<br>
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
-
-</td>
-<td valign="top" width="33%">
-
-**Data / Infra**
-<br>
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-
-</td>
-</tr>
-</table>
-
-<br>
-
-## 📊 GitHub
-
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=tchxm&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tchxm&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+<img src="https://skillicons.dev/icons?i=python,ts,js,react,nextjs,flask,express,postgres,firebase,docker,git,github,vscode&perline=13"/>
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tchxm&theme=tokyonight&hide_border=true" />
+<br>
+<img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white"/>
 </div>
+
+<br>
+
+## 📊 The numbers
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=tchxm&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="175"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tchxm&theme=tokyonight&hide_border=true" height="175"/>
+</div>
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tchxm&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165"/>
+<img src="https://github-profile-trophy.vercel.app/?username=tchxm&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=8&margin-h=8" height="165"/>
+</div>
+
+<br>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tchxm&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+</div>
+
+<br>
+
+<!--START_SECTION:waking-up-->
+<div align="center">
+
+### 🐍 Contribution Snake
+
+<img src="https://raw.githubusercontent.com/tchxm/tchxm/output/github-contribution-grid-snake.svg" width="100%"/>
+
+</div>
+<!--END_SECTION:waking-up-->
 
 <br>
 
 ## 🎯 Currently
 
-`→` Hardening InfraWatch's legal-notice generation against hallucinated claims ahead of Solution Challenge review
-`→` Extending YojanaSaarthi's scheme coverage and edge-case handling
-`→` Exploring agentic patterns for multi-step verification pipelines
+```
+[■■■■■■■□□□] Hardening InfraWatch's notice-gen against hallucinated claims
+[■■■■■□□□□□] Widening YojanaSaarthi's scheme + edge-case coverage
+[■■■□□□□□□□] Prototyping multi-step verification agent patterns
+```
 
 <br>
 
 <div align="center">
-<sub>Open to internships and collaboration on applied AI / civic-tech projects.</sub>
+
+### 📬 Let's talk
+
+If you're hiring for applied AI, civic-tech, or full-stack roles — my inbox is open.
+
+<a href="https://www.linkedin.com/in/mohammed-afnan-77a27a311"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://resume-afnan.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=100&section=footer" width="100%"/>
+
 </div>
