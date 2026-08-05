@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Mohammed%20Afnan&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Engineer%20%C2%B7%20Full-Stack%20Developer%20%C2%B7%20Bengaluru&descAlignY=58&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=900&color=58A6FF&center=true&vCenter=true&width=650&lines=I+build+AI+that+has+to+survive+contact+with+reality;Hallucination-guarded+pipelines%2C+not+demo-ware;Satellite+CV+%C2%B7+RAG+%C2%B7+Deterministic+decision+engines" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2600&pause=900&color=58A6FF&center=true&vCenter=true&width=750&lines=I+build+AI+that+survives+contact+with+reality;Hallucination-guarded+pipelines%2C+not+demo-ware;Satellite+CV+%C2%B7+RAG+%C2%B7+Decision+Engines" alt="Typing SVG" />
 
 <br>
 
@@ -51,7 +51,7 @@
 <tr>
 <td width="50%" valign="top">
 <h3>🛰️ <a href="https://infrawatch-sepia.vercel.app">InfraWatch</a></h3>
- Satellite-based illegal construction detector. Gemini 2.5 Vision flags anomalies, then an SLA'd enforcement pipeline takes over — and every auto-generated legal notice is hallucination-guarded before it goes anywhere near a human.
+Satellite-based illegal construction detector. Gemini 2.5 Vision flags anomalies, then an SLA'd enforcement pipeline takes over — and every auto-generated legal notice is hallucination-guarded before it goes anywhere near a human.
 <br><br>
 <img src="https://img.shields.io/badge/Gemini_2.5_Vision-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/>
 <img src="https://img.shields.io/badge/Google_Maps-4285F4?style=flat-square&logo=googlemaps&logoColor=white"/>
@@ -141,11 +141,15 @@ Webcam-based screen-health monitor — MediaPipe eye landmarks track blink rate 
 
 ## 🎯 Currently
 
-```
-[■■■■■■■□□□] Hardening InfraWatch's notice-gen against hallucinated claims
-[■■■■■□□□□□] Widening YojanaSaarthi's scheme + edge-case coverage
-[■■■□□□□□□□] Prototyping multi-step verification agent patterns
-```
+<div align="center">
+
+| | |
+|---|---|
+| 🔧 | Hardening InfraWatch's notice-gen against hallucinated claims |
+| 📈 | Widening YojanaSaarthi's scheme + edge-case coverage |
+| 🤖 | Prototyping multi-step verification agent patterns |
+
+</div>
 
 <br>
 
