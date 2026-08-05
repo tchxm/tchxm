@@ -140,7 +140,7 @@ Webcam-based screen-health monitor — MediaPipe eye landmarks track blink rate 
 <br>
 
 
-## 📊 The Numbers
+## 📈 Development Activity
 
 <div align="center">
 
