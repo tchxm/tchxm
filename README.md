@@ -31,9 +31,9 @@
 <sub>modeled in YojanaSaarthi</sub>
 </td>
 <td align="center" width="25%">
-<h2>🥈</h2>
-<b>2nd Prize</b><br>
-<sub>REVA Hackathon</sub>
+<h2>🏆</h2>
+<b>4 Hackathons</b><br>
+<sub>2nd Prize · REVA</sub>
 </td>
 <td align="center" width="25%">
 <h2>🎯</h2>
@@ -66,7 +66,7 @@ An eligibility engine for 26 Indian government welfare schemes — built deliber
 <img src="https://img.shields.io/badge/Rules_Engine-000?style=flat-square"/>
 <img src="https://img.shields.io/badge/Explainable-00A67E?style=flat-square"/>
 <br><br>
-<a href="https://github.com/tchxm/YojanaSaarthi">🔗 Live Demo</a>
+<a href="https://v0-yojana-saarthi.vercel.app/">🔗 Live Demo</a> · <a href="https://github.com/tchxm/YojanaSaarthi">💻 Code</a>
 </td>
 </tr>
 <tr>
@@ -80,13 +80,13 @@ Face-recognition classroom attendance system with role-based access control. Bui
 <a href="https://github.com/tchxm/EduGuard-AI">🔗 Repository</a>
 </td>
 <td width="50%" valign="top">
-<h3>👁️ <a href="https://github.com/tchxm/Eye-Guardian.git">Eye Guardian</a></h3>
+<h3>👁️ <a href="https://github.com/tchxm/Eye-Guardian">Eye Guardian</a></h3>
 Webcam-based screen-health monitor — MediaPipe eye landmarks track blink rate and dry-eye risk in real time. Took 2nd prize at REVA Hackathon.
 <br><br>
 <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square"/>
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
 <br><br>
-<a href="https://github.com/tchxm/Eye-Guardian.git">🔗 Repository</a>
+<a href="https://github.com/tchxm/Eye-Guardian">🔗 Repository</a>
 </td>
 </tr>
 </table>
